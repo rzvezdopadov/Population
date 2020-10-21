@@ -1,0 +1,19 @@
+body {
+	background-color: #000000;
+}
+
+canvas {
+	position:absolute;
+	top:20px;
+	left:0px;
+	border: 2px solid #6eeb48
+}
+
+#countBacterial {
+	position: absolute;
+	font-family: Arial;
+	font-weight: bold;
+	top: 0px;
+	left: 120px;
+	color: #00FF00;
+}
